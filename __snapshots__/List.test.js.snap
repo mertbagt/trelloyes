@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List component renders the UI as expected 1`] = `
+<section
+  className="List"
+>
+  <header
+    className="List-header"
+  >
+    <h2
+      className="List-header"
+    >
+      First list
+    </h2>
+  </header>
+  <div
+    className="List-cards"
+  >
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        First card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Second card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Fifth card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Sixth card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Seventh card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Tenth card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Twelfth card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="Card"
+    >
+      <button
+        type="button"
+      >
+        delete
+      </button>
+      <h3
+        className="Card-title"
+      >
+        Thirteenth card
+      </h3>
+      <p
+        className="Card-content"
+      >
+        lorem ipsum
+      </p>
+    </div>
+    <button
+      className="List-add-button"
+      type="button"
+    >
+      + Add Random Card
+    </button>
+  </div>
+</section>
+`;
